@@ -1,3 +1,4 @@
+// DB와 통신을 담당한다
 import { sql } from '@vercel/postgres';
 import {
   CustomerField,
